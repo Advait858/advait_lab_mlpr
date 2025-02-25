@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "CPython 3.11.5",
+  "startedAt":  "2025-02-25T19:18:19.370091Z",
+  "program":  "C:\\Users\\ADVAIT\\Desktop\\dms lab\\distance_classification\\advait_lab_mlpr\\my_wandb_test.py",
+  "codePath":  "my_wandb_test.py",
+  "git":  {
+    "remote":  "git@github.com:Advait858/advait_lab_mlpr.git",
+    "commit":  "b62a99fe5ce9004a501f639f3589c0c4b0de5890"
+  },
+  "email":  "advait.sharma.ug23@plaksha.edu.in",
+  "root":  "C:\\Users\\ADVAIT\\Desktop\\dms lab\\distance_classification\\advait_lab_mlpr",
+  "host":  "ADVAIT",
+  "executable":  "C:\\Users\\ADVAIT\\Desktop\\dms lab\\distance_classification\\advait_lab_mlpr\\venv\\Scripts\\python.exe",
+  "codePathLocal":  "my_wandb_test.py",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "511205961728",
+      "used":  "242812850176"
+    }
+  },
+  "memory":  {
+    "total":  "16858472448"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  12
+  }
+}
