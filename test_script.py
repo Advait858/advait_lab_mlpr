@@ -1,1 +1,1 @@
-print("Hello from test_script!")
+print("Hello from scrnton, thats waht she said !")
